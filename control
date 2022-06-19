@@ -1,0 +1,9 @@
+Package: com.arichorn.ytoldiconstyle
+Name: YTOldIconStyle
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Brings back old Icon UI on YouTube. YTDisableHighContrastIcons Required.
+Maintainer: arichorn
+Author: arichorn
+Section: Tweaks
